@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m student @ neuefische Web Development Bootcamp
+- 🌱 I’m currently learning HTML, CSS, Java Script
+
 <!--
 **DanielGennat/DanielGennat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
