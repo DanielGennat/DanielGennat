@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m student @ neuefische Web Development Bootcamp
+- 🔭 I’m student @ [neuefische](https://www.neuefische.de/) Web Development Bootcamp
 - 🌱 I’m currently learning HTML, CSS, Java Script
+
+[![DanielGennat's github stats](https://github-readme-stats.vercel.app/api?username=DanielGennat)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ship](https://cdn.pixabay.com/photo/2014/04/03/11/52/sailing-ship-312417_960_720.png)
 
