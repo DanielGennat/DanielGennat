@@ -3,7 +3,7 @@
 - 🔭 I’m trainee @ [neuefische](https://www.neuefische.de/) Web Development Bootcamp
 - 🌱 I’m currently working on my capstone project timer web app ["Just Practice"](https://github.com/DanielGennat/capstone-project). Make shure to check it out!
 - :mortar_board: Check out my repositories to see my learning progress in the last three months from zero to capstone!
-
+- :computer: I'm looking for a job as web developer
 
 [![DanielGennat's github stats](https://github-readme-stats.vercel.app/api?username=DanielGennat)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- :computer:	
 -->
